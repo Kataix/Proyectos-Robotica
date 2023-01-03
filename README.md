@@ -35,15 +35,13 @@ Se deben instalar las librerias:
 •random
 
 Además para los ejercicios 1,2 y 3 se debe tener una carpeta con los recursos a utilizar. En este caso, la carpeta es llamada "img" la cual contiene las siguientes imagenes:
+![Fondo](https://user-images.githubusercontent.com/43975051/210423550-0f1b081f-b4d3-4e7b-99f7-2c1b019870f2.png)
 
-Fondo
-![fondo](https://user-images.githubusercontent.com/43975051/210423550-0f1b081f-b4d3-4e7b-99f7-2c1b019870f2.png)
-Lose
-![lose](https://user-images.githubusercontent.com/43975051/210423552-7f03819e-f76c-4e25-8a06-bc05f97beb97.png)
-Normal
-![normal](https://user-images.githubusercontent.com/43975051/210423553-1e965cf0-e734-407f-9c6d-82b339331f90.png)
-Robot
-![robot](https://user-images.githubusercontent.com/43975051/210423555-e81f36fe-5e3e-4b85-b22f-be9d005b9eec.png)
-Win
-![win](https://user-images.githubusercontent.com/43975051/210423557-b62a4271-be7e-46c7-b80b-a73d97566ed2.png)
+![Lose](https://user-images.githubusercontent.com/43975051/210423552-7f03819e-f76c-4e25-8a06-bc05f97beb97.png)
+
+![Normal](https://user-images.githubusercontent.com/43975051/210423553-1e965cf0-e734-407f-9c6d-82b339331f90.png)
+
+![Robot](https://user-images.githubusercontent.com/43975051/210423555-e81f36fe-5e3e-4b85-b22f-be9d005b9eec.png)
+
+![Win](https://user-images.githubusercontent.com/43975051/210423557-b62a4271-be7e-46c7-b80b-a73d97566ed2.png)
 
